@@ -42,7 +42,7 @@ Cinco lojas ficaram abaixo da meta. Quatro por pouco (17% a 19%). Uma está queb
 
 ## O que caiu (e por que isso importa)
 
-Testei quatro hipóteses de segmentação. Todas falharam, e documentar isso é parte do trabalho, não uma nota de rodapé.
+Testei quatro hipóteses de segmentação.
 
 | Hipótese | Método | Resultado |
 |---|---|---|
