@@ -11,7 +11,6 @@
 | Formato | Tabela única, flat, sem chaves |
 | Granularidade | Uma linha = uma venda |
 
-Nenhum relacionamento, nenhuma dimensão. Tudo denormalizado num CSV só. Isso significa que o trabalho de modelagem era inteiro meu — o que, para um projeto de portfólio, é bom: é exatamente o que se faz na vida real.
 
 ## Dicionário
 
