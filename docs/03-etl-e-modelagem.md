@@ -1,6 +1,6 @@
 # 03 — ETL e Modelagem
 
-## Power Query, as etapas
+## Power Query, etapas:
 
 Todas as transformações foram feitas no Power Query, em etapas reprodutíveis. Nada de célula editada na mão: se o dado mudar, o pipeline roda de novo.
 
