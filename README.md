@@ -1,6 +1,6 @@
 # 🚗 DriveWell Motors — Análise de Performance Comercial
 
-Dashboard de vendas para uma rede de concessionárias multi-regional. Descobri que o crescimento anunciado de 23,6% era enganoso, e que o problema da rede não era regional: era de uma loja específica.
+Dashboard de vendas para uma rede de concessionárias multi-regional. Descobri que o crescimento anunciado de 23,6% era enganoso, e que o problema da rede não era regional, e sim de uma loja específica.
 
 **🔗 [Ver dashboard ao vivo](https://app.powerbi.com/view?r=eyJrIjoiNjE4ZWU3MTUtMzdlOS00ZmMxLWFlYTMtMjcxNGExNWE4ZGYyIiwidCI6ImU4MmU1OWEwLWY0YTAtNDNmMC1iM2E5LTIwMDZjNjdmMGQ2NiJ9)** · publicado no Power BI Service
 
