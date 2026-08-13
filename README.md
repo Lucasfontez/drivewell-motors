@@ -102,7 +102,7 @@ Não são desculpas. São os limites que eu enxergo do trabalho, e o que faria d
 
 ## Autor
 
-**Lucas Souza Fontes Caminha**
+**Lucas Fontes**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lucasfontez-181717?style=flat-square&logo=github)](https://github.com/Lucasfontez)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-preencher-0A66C2?style=flat-square&logo=linkedin)](#)
