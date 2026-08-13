@@ -40,27 +40,6 @@ Cinco lojas ficaram abaixo da meta. Quatro por pouco (17% a 19%). Uma está queb
 
 ---
 
-## O que caiu (e por que isso importa)
-
-Testei quatro hipóteses de segmentação.
-
-| Hipótese | Método | Resultado |
-|---|---|---|
-| Renda prevê o preço do carro | Faixas, Pearson, decis | Correlação 0,0121. Nenhuma. |
-| Gênero segmenta o ticket | Dispersão entre categorias | 0,8%, ruído |
-| Transmissão segmenta o ticket | Dispersão entre categorias | 1,2%, ruído |
-| Cor segmenta o ticket | Dispersão entre categorias | 4,6%, fraco demais |
-
-A hipótese da renda era a espinha de uma **página inteira** do dashboard. Testei com três métodos independentes (faixas de quartil, correlação de Pearson e decis) e o sinal não existe: o ticket médio varia 1,4% entre a faixa mais pobre e a mais rica.
-
-Fui olhar o dado e achei o motivo: **22% dos registros de renda têm o valor idêntico de 13.500**, assinatura clássica de dado sintético gerado sem lógica de negócio.
-
-**Cortei a página.** O dashboard tem duas páginas em vez de três. Uma página bonita provando que não há nada ali não é entrega, é enchimento.
-
-Detalhes em [`docs/06-decisoes-e-aprendizados.md`](docs/06-decisoes-e-aprendizados.md).
-
----
-
 ## Stack e processo
 
 **Excel** → limpeza no Power Query, EDA com tabelas dinâmicas, validação com fórmulas
